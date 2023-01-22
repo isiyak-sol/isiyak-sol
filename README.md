@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isiyak-sol
+- 👋 Hi, I’m Isiyak Solomon
 - 👀 I’m interested in Modern Website Development
 - 🌱 I’m currently learning Full Stack Web Development Specialization
 - 💞️ I’m looking to collaborate on any web development projects.
