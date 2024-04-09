@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Isiyak Solomon</h1>
 <h3 align="center">A passionate Full Stack Web Developer Based in Ethiopia.</h3>
+
 - 🔭 I’m currently working on **Website Design and Development**
 
 - 🌱 I’m currently learning **Cloud Application Development**
