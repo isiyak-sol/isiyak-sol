@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Website Design and Development**
 
-- 🌱 I’m currently learning **Cloud Application Development**
-
 - 💬 Ask me about **HTML,CSS,BOOTSTRAP,JS,Version Control, ...**
 
 - 📫 How to reach me **isiyaksolomon877@gmail.com**
